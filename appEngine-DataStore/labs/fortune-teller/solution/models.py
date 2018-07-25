@@ -40,7 +40,7 @@ class Company(ndb.Model):
     employees = []
 
     # def __init__(self, name, loc, desc):
-    #     self.company_name = name
+    #     self.company_name = name 
     #     self.location = loc
     #     self.description = desc
 
